@@ -1,0 +1,82 @@
+2017-12-19 20:20:36,112 - access - INFO - user 1000 logged in
+2017-12-19 20:42:09,991 - access - INFO - user 1000 logged in
+2017-12-19 20:43:21,700 - access - INFO - user 1000 logged in
+2017-12-19 20:44:40,551 - access - INFO - user 1000 logged in
+2017-12-19 20:45:11,951 - access - INFO - user 1000 logged in
+2017-12-19 20:47:07,557 - access - INFO - user 1000 logged in
+2017-12-19 20:50:38,966 - access - INFO - user 1000 logged in
+2017-12-19 20:51:56,213 - access - INFO - user 1000 logged in
+2017-12-19 20:53:53,964 - access - INFO - user 1000 logged in
+2017-12-20 11:48:01,567 - access - INFO - user 1000 logged in
+2017-12-20 11:48:57,241 - access - INFO - user 1000 logged in
+2017-12-20 12:12:41,510 - access - INFO - user 1000 logged in
+2017-12-20 12:14:22,301 - access - INFO - user 1000 logged in
+2017-12-20 12:15:08,686 - access - INFO - user 1000 logged in
+2017-12-20 12:15:40,717 - access - INFO - user 1000 logged in
+2017-12-20 12:16:19,261 - access - INFO - user 1000 logged in
+2017-12-20 12:17:00,504 - access - INFO - user 1000 logged in
+2017-12-20 13:35:03,427 - access - INFO - user 1000 logged in
+2017-12-20 13:36:59,761 - access - INFO - user 1000 logged in
+2017-12-24 01:36:28,053 - access - INFO - user 1000 logged in
+2017-12-24 01:39:00,705 - access - INFO - user 1000 logged in
+2017-12-24 01:44:41,652 - access - INFO - user 1000 logged in
+2017-12-24 01:45:55,255 - access - INFO - user 1000 logged in
+2017-12-24 01:48:41,913 - access - INFO - user 1000 logged in
+2017-12-24 01:50:12,536 - access - INFO - user 1000 logged in
+2017-12-24 01:52:07,141 - access - INFO - user 1000 logged in
+2017-12-24 01:53:51,187 - access - INFO - user 1000 logged in
+2017-12-24 01:55:16,849 - access - INFO - user 1000 logged in
+2017-12-24 01:55:54,357 - access - INFO - user 1000 logged in
+2017-12-24 02:06:15,786 - access - INFO - user 1000 logged in
+2017-12-24 02:09:31,895 - access - INFO - user 1000 logged in
+2017-12-24 02:11:24,762 - access - INFO - user 1000 logged in
+2017-12-24 02:13:11,366 - access - INFO - user 1000 logged in
+2017-12-24 02:14:36,848 - access - INFO - user 1000 logged in
+2017-12-24 02:15:11,790 - access - INFO - user 1000 logged in
+2017-12-24 02:16:05,738 - access - INFO - user 1000 logged in
+2017-12-24 02:19:55,640 - access - INFO - user 1000 logged in
+2017-12-24 03:19:38,919 - access - INFO - user 1000 logged in
+2017-12-24 03:24:02,562 - access - INFO - user 1000 logged in
+2017-12-24 03:38:26,074 - access - INFO - user 1000 logged in
+2017-12-24 03:40:43,094 - access - INFO - user 1000 logged in
+2017-12-24 03:41:58,113 - access - INFO - user 1000 logged in
+2017-12-24 03:45:16,745 - access - INFO - user 1000 logged in
+2017-12-24 03:56:55,836 - access - INFO - user 1000 logged in
+2017-12-24 03:57:33,955 - access - INFO - user 1000 logged in
+2017-12-24 03:59:40,788 - access - INFO - user 1000 logged in
+2017-12-24 04:00:41,493 - access - INFO - user 1000 logged in
+2017-12-24 04:01:36,288 - access - INFO - user 1000 logged in
+2017-12-24 04:02:58,358 - access - INFO - user 1000 logged in
+2017-12-24 04:15:41,371 - access - INFO - user 1001 logged in
+2017-12-27 21:54:01,656 - access - INFO - user 1000 logged in
+2017-12-28 22:07:33,613 - access - INFO - user 1000 logged in
+2017-12-28 22:23:41,516 - access - INFO - user 1000 logged in
+2017-12-28 22:25:58,750 - access - INFO - user 1000 logged in
+2017-12-28 22:35:24,132 - access - INFO - user 1000 logged in
+2017-12-28 22:39:52,846 - access - INFO - user 1000 logged in
+2017-12-28 22:40:33,901 - access - INFO - user 1000 logged in
+2017-12-28 22:44:04,421 - access - INFO - user 1000 logged in
+2017-12-28 22:53:38,933 - access - INFO - user 1000 logged in
+2017-12-28 22:54:20,717 - access - INFO - user 1000 logged in
+2017-12-28 22:57:19,837 - access - INFO - user 1000 logged in
+2017-12-28 23:13:12,637 - access - INFO - user 1000 logged in
+2017-12-28 23:24:55,164 - access - INFO - user 1 logged in
+2017-12-29 20:07:40,944 - access - INFO - user 1000 logged in
+2017-12-29 20:15:39,438 - access - INFO - user 1000 logged in
+2017-12-29 20:22:35,199 - access - INFO - user 111 logged in
+2017-12-29 20:30:54,599 - access - INFO - user 1000 logged in
+2017-12-31 02:16:21,247 - access from shopping_mall - INFO - user 1000 logged in
+2017-12-31 02:17:15,399 - access from shopping_mall - INFO - user 1000 logged in
+2017-12-31 02:31:50,398 - access from shopping_mall - INFO - user 1000 logged in
+2017-12-31 02:33:58,184 - access from shopping_mall - INFO - user 1000 logged in
+2017-12-31 02:35:22,166 - access from shopping_mall - INFO - user 1000 logged in
+2017-12-31 02:36:02,423 - access - INFO - user 1000 logged in
+2017-12-31 02:38:38,213 - access - INFO - user 1 logged in
+2017-12-31 02:51:49,333 - access from shopping_mall - INFO - user 1000 logged in
+2017-12-31 02:53:21,685 - access from shopping_mall - INFO - user 1001 logged in
+2017-12-31 02:53:56,389 - access - INFO - user 1000 logged in
+2017-12-31 03:01:12,357 - access - INFO - user 1000 logged in
+2017-12-31 03:17:51,565 - access - INFO - user 1 logged in
+2017-12-31 21:44:58,465 - access - INFO - user 1100 logged in
+2017-12-31 22:23:40,470 - access - INFO - user 1100 logged in
+2018-01-12 04:37:48,773 - access - INFO - user 1000 logged in

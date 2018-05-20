@@ -1,0 +1,18 @@
+1.logging日志级别：
+debug info warnning eror critical
+2。跳过
+3.json pickle shelve 区别
+三者都是序列化模块用的，json结构简单，支持的数据结构也比较少，适合于不同语言之间的交互，网络传输等
+pickle是python独有模块，可以支持python自己独特的结构，pickle需要以2进制读入
+这两者基本都属于一次性存储和读入
+shelve模块也是python独有的，它支持多次存储和读入。如果只是python之间的交互，使用shelve会比较方便点
+
+3.命令行执行py文件，如何获取第一个参数
+import sys
+sys.argv[0]  -- 获取脚本名
+sys.argv[1]  -- 获取参数一
+sys.argv[2]  -- 获取参数二
+
+9.os.path.dirname和os.path.abspath含义是什么？
+os.path.abspath("test.txt")  -->  /home/scottyun/test.txt
+os.path.dirname(os.path.abspath("test.txt"))   -->取出所在的目录路径，没有脚本名

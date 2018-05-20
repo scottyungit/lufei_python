@@ -1,0 +1,1742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/第二模块/test.py" description="   print('-'.join(data))" line="308" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e2822c4-2a39-4a87-98cb-e78f04ef7c0d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unzip_password" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/db/course/e88563bd7bfeb7b694f7d281de28ec85" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/db/school/d32ff7f574d3ea47c94f305be24705bb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/db/student/455b978151b4ebcb021996958bf69b62" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/logs/transaction_log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/hello" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/my_proj/crm/aaa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/准备修改的文件2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/生成器" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/闭包" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/data.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/scott_website_cut.log.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/shelve_test.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/第一张作业/staff_table作业.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/递归的特性" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/scottyun.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lufei_python.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hosts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python——book" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/questions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit5-面向对象/类.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/佳世达设备list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/其他学习平台/learning.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/其他学习平台/legb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/其他学习平台/python定时任务模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/其他学习平台/正则练习.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/回顾/用户登录程序.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/巡检.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/模块1考核.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/if-while-study.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/python概念" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/变量.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/字符串.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/循环.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/格式化输出.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/用户认证登录作业/lock_user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/用户认证登录作业/作业.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/用户认证登录作业/作业反馈" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/用户认证登录作业/升级.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/运算符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/.idea/unit2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/hash函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/list-tutle-dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/str操作练习题.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/str数据类型.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/二进制_字符编码.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/balance.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/shopping_car.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/shopping_car.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/test.py2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/.idea/第二章作业.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/balance.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/shopping_car.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/三级菜单.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/购物车基础需求.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/购物车扩展.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/列表练习题.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/各种进制数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/字符如何存储到硬盘.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/本章练习题.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/难题总结" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/集合.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/python执行代码过程" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/编码变量" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-网络编程/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-网络编程/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-网络编程/.idea/第三模块-网络编程.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-网络编程/网络基础知识" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象-网络编程/开发选课系统作业/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象-网络编程/开发选课系统作业/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象-网络编程/开发选课系统作业/.idea/开发选课系统作业.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象-网络编程/开发选课系统作业/aa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/.idea/第三模块-面向对象-网络编程.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/3如何使用类.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/__init__方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/python2和python3区别" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/setting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/元类1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/内置方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/名字空间学习.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/子类中重用父类属性.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/实现封装1：访问限制.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/封装之property使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/封装的意义.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/.idea/开发选课系统作业.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/bin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/bin/course.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/bin/course_app_start.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/conf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/conf/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/core/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/core/create_uid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/core/logger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/core/logics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/core/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/core/main2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/core/uid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/db/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/db/accounts/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/db/admin/admin.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/libs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/libs/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/libs/banji.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/libs/course.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/libs/school.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/libs/student.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/libs/student_view.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/log/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/log/access.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/log/sys.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/新的作业/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/开发选课系统作业/选课.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/类小练习.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/类的属性绑定.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/类继承.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/组合.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/绑定方法与非绑定方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第三模块-面向对象/词语解释" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/.idea/第二模块.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/.idea/ATM+Shopping_mall.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/.idea/ATM作业.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm/admin_logics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm/db_handler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm/logger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm/logics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm_admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/atm_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/conf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/conf/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/1000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/1001.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/1100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/111.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/1200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/2000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/2001.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/db/accounts/scott.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/logs/access_log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/logs/admin_log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/utils/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/utils_admin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/utils_admin/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/ATM_apps/题目要求及笔记" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/.idea/shopping_mall_apps.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/a.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/conf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/conf/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/db/accounts/scott.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/db/goods/goods.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/shopping_mall/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/shopping_mall/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/shopping_mall/db_handler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/shopping_mall/load_card.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/shopping_mall/logger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/shopping_mall/logics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/shopping_mall/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/shopping_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/study" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/shopping_mall_apps/utils/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/固定套路.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/ATM+Shopping_mall/测试程序请看.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/dd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/my_proj/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/my_proj/crm/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/my_proj/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/my_proj/proj/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/pip装包方法" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/staff_data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/三元运算.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/account.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/database.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/employee_info.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/test_function.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/内置方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/准备修改的文件" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/函数1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/函数练习题.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/列表生成式.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/生成器.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/简单个人信息修改.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/装饰器.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/函数/递归函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/占内存修改文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/占硬盘修改文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/argparse模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/json模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/log_test.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/logging模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/logging模块高级功能.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/pickle模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/re_file.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/re模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/scott_website.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/scott_website_cut.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/scott_website_cut.log.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/scott_website_cut.log.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/scott_website_time_cut_log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/scott_website_time_cut_log.2017-12-13_14-12-54" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/scott_website_time_cut_log.2017-12-13_15-35-03" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/scott_website_time_cut_log.2017-12-13_15-35-34" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/shelve_test.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/shelve_test.dir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/shelve模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/test.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/time模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/xml模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/常用模块介绍/模块的好处" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/文件.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/文件2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/文件处理.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/模块2考核/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/模块2考核/test1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/第一张作业/staff_table.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/第一张作业/增删改查程序.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/第一章练习题目" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第二模块/第二章练习题/练习题目" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/语言分类" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sta</find>
+      <find>sql</find>
+      <find>sql_p</find>
+      <find>sql_par</find>
+      <find>split</find>
+      <find>set</find>
+      <find>setFormat</find>
+      <find>Format</find>
+      <find>Formatter</find>
+      <find>parse</find>
+      <find>isfile</find>
+      <find>User</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/atm_admin.py" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/db/admin_accounts/scott.json" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/db/accounts/scott.json.py" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/conf/settings.py" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/db/accounts/1001.json" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/atm/logics.py" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/util.py" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/atm/auth.py" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/db/accounts/1000.json" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/db/accounts/scott.json" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/logs/admin_log" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/atm/main.py" />
+        <option value="$PROJECT_DIR$/第二模块/ATM作业/atm/admin.py" />
+        <option value="$PROJECT_DIR$/佳世达设备list.py" />
+        <option value="$PROJECT_DIR$/第三模块-面向对象-网络编程/3如何使用类.py" />
+        <option value="$PROJECT_DIR$/file" />
+        <option value="$PROJECT_DIR$/第二模块/占内存修改文件.py" />
+        <option value="$PROJECT_DIR$/巡检.py" />
+        <option value="$PROJECT_DIR$/coding.py" />
+        <option value="$PROJECT_DIR$/unit2/列表练习题.py" />
+        <option value="$PROJECT_DIR$/unit1/作业2/test.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/unit1/字符串.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/python概念" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/1.py" />
+        <option value="$PROJECT_DIR$/unit1/格式化输出.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/运算符.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/if-study.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/if-while-study.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/test.py2.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/二进制_字符编码.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/数据类型.txt" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/数据类型.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/list数据类型.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/str数据类型.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/str操作练习题.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/hash函数.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/list-tutle-dict.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/各种进制数.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/字符如何存储到硬盘.py" />
+        <option value="$PROJECT_DIR$/unit3/python执行代码过程" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/python执行代码过程" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/编码变量" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/test.txt.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/test.txt" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/test.py" />
+        <option value="$PROJECT_DIR$/其他学习平台/python定时任务模块.py" />
+        <option value="$PROJECT_DIR$/回顾/用户登录程序.py" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/作业2/lock_user" />
+        <option value="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/作业2/升级.py" />
+        <option value="$PROJECT_DIR$/第三模块-面向对象/词语解释" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="432" />
+    <option name="y" value="-3" />
+    <option name="width" value="980" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>TodoComment</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lufei_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lufei_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lufei_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="lufei_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files\Python36\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/lufei_python/第二模块/第一张作业/增删改查程序.py" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="lufei_python" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="lufei_python" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\lufei_python\第一模块：python基础" />
+      <recent name="C:\lufei_python\unit3" />
+      <recent name="C:\lufei_python\第一模块：python基础\unit1-python-basic" />
+      <recent name="C:\lufei_python\unit1" />
+      <recent name="C:\lufei_python\第二模块\ATM作业\atm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\lufei_python\第二模块\ATM作业\db\accounts" />
+      <recent name="C:\lufei_python\第二模块" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.升级">
+    <configuration name="升级" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/作业2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/作业2/升级.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="巡检" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/巡检.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="本章练习题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit2/本章练习题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="格式化输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit1/格式化输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="购物车扩展" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit2/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit2/作业/购物车扩展.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit1/字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="格式化输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit1/格式化输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="函数练习题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块2/函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块2/函数/函数练习题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="简单个人信息修改" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块2/函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块2/函数/简单个人信息修改.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="数据类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit2/数据类型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="内存修改文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="C:\lufei_python\模块2\占硬盘修改文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="简单个人信息修改" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二模块/函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二模块/函数/简单个人信息修改.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="列表练习题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/kejian (4)/第一模块课件/chapter2-数据类型" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/kejian (4)/第一模块课件/chapter2-数据类型/列表练习题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="占内存修改文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块2/占内存修改文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="文件处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块2/文件处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="本章练习题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit2/本章练习题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="各种进制数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/各种进制数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="列表练习题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit2/列表练习题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="购物车扩展" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit2/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit2/作业/购物车扩展.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="本章练习题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit2/本章练习题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="占内存修改文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块2/占内存修改文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="增删改查程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二模块/第一张作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二模块/第一张作业/增删改查程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="简单个人信息修改" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块2/函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块2/函数/简单个人信息修改.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="增删改查程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二模块/第一张作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二模块/第一张作业/增删改查程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="用户登录程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回顾" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回顾/用户登录程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="作业" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/作业.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="列表练习题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit2/列表练习题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="购物车扩展临时文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit2/购物车扩展临时文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="二进制_字符编码" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/二进制_字符编码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="list-tutle-dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/list-tutle-dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二模块/ATM作业/conf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二模块/ATM作业/conf/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="str数据类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/str数据类型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="str操作练习题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/str操作练习题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lufei_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.二进制_字符编码" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.settings" />
+      <item index="3" class="java.lang.String" itemvalue="Python.str数据类型" />
+      <item index="4" class="java.lang.String" itemvalue="Python.list-tutle-dict" />
+      <item index="5" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Python.升级" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.升级" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.list-tutle-dict" />
+        <item index="3" class="java.lang.String" itemvalue="Python.str数据类型" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e2822c4-2a39-4a87-98cb-e78f04ef7c0d" name="Default" comment="" />
+      <created>1510458861111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510458861111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21319444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3890785" sideWeight="0.109375" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38761777" sideWeight="0.890625" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3795424" sideWeight="0.49375" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="-121" y="76" width="1742" height="842" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/循环.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/循环.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/循环.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/循环.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/循环.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/循环.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/循环.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/循环.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/循环.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/函数/递归函数.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/函数/递归函数.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/函数/递归函数.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/函数/递归函数.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/函数/递归函数.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/函数/递归函数.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/函数/递归函数.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/函数/递归函数.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>40</line>
+          <log-expression expression="sql_dic[sql_list[-1]] = b[0]" language="Python" />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>316</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>312</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>313</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>314</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>315</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>308</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>309</line>
+          <log-expression expression="print('-'.join(data))" language="Python" />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>310</line>
+          <log-expression expression="print('-'.join(data))" language="Python" />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>174</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>175</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>226</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>225</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>223</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>222</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/test.py</url>
+          <line>221</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二模块/ATM作业/atm/logics.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="153" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/第二模块/文件处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/python概念">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/循环.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/test.py2.py" />
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/test.py2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/if-while-study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/列表练习题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三模块-面向对象-网络编程/开发选课系统作业/aa">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/巡检.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块1考核.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三模块-面向对象-网络编程/开发选课系统作业/.idea/开发选课系统作业.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/hash函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/str数据类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/list-tutle-dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="99" column="14" lean-forward="true" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/运算符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/各种进制数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/语言分类">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python——book">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/str操作练习题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/字符如何存储到硬盘.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/二进制_字符编码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/编码变量">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/test.txt.py" />
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/python执行代码过程">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他学习平台/python定时任务模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/本章练习题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/难题总结">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/格式化输出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1120166012/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="341" column="4" lean-forward="false" selection-start-line="341" selection-start-column="4" selection-end-line="341" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit3-python字符编码问题/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回顾/用户登录程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1120166012/_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25593">
+          <caret line="1347" column="12" lean-forward="true" selection-start-line="1347" selection-start-column="12" selection-end-line="1347" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/用户认证登录作业/lock_user">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/用户认证登录作业/升级.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/用户认证登录作业/作业反馈">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit1-python-basic/用户认证登录作业/作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/路飞python/homework/yunleijie/三级菜单/第2章·数据类型、字符编码、文件操作[第1次]/第二章作业/三级菜单.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/三级菜单.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="28" lean-forward="true" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一模块：python基础/unit2-dict-list-fileopen/作业/第二章作业/购物车基础需求.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三模块-面向对象/python2和python3区别">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三模块-面向对象/3如何使用类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三模块-面向对象/词语解释">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

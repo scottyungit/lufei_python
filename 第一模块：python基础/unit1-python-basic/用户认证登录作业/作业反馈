@@ -1,0 +1,2 @@
+经老师看过以后，发现while ... else哪里有问题
+while ... else;循环中，当while条件为False时，else无法引用while中的变量

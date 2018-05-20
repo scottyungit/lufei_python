@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hello" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/函数/account.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/函数/准备修改的文件" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/函数/准备修改的文件.new" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/函数/准备修改的文件2" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/函数/生成器" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/函数/闭包" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/常用模块介绍/data.pkl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/常用模块介绍/log_test.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/递归的特性" charset="GBK" />
+  </component>
+</project>

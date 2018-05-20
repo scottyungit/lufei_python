@@ -1,0 +1,12 @@
+﻿ATM credit card account(两个)
+account:1000  password:123
+account:1001  password:123 　  可以互相转帐
+入口文件： atm_server.py
+
+ATM administration  account
+account:scott   password:123
+入口文件：atm_admin.py
+
+shopping_mall account
+account:scott password:123    可调用上边的任意信用卡帐户结帐
+入口文件：shopping_server.py

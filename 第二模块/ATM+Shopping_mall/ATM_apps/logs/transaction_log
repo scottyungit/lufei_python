@@ -1,0 +1,84 @@
+2017-12-19 20:20:40,685 - transaction - INFO - User 1000 views the account info2017-12-19 20:42:12,407 - transaction - INFO - User 1000 views the account info
+2017-12-19 20:47:10,376 - transaction - INFO - User 1000 with_draw 1000
+2017-12-19 20:50:41,879 - transaction - INFO - User 1000 with_draw 1000 and services charge:1050
+2017-12-19 20:50:49,219 - transaction - INFO - User 1000 views the account info
+2017-12-19 20:53:57,121 - transaction - INFO - User 1000 with_draw 1000 and services charge:50
+2017-12-20 11:48:05,616 - transaction - INFO - User 1000 views the account info
+2017-12-20 11:48:58,963 - transaction - INFO - User 1000 views the account info
+2017-12-24 01:36:29,997 - transaction - INFO - User 1000 views the account info
+2017-12-24 01:39:02,364 - transaction - INFO - User 1000 views the account info
+2017-12-24 01:50:19,760 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:1000.0 interest:50.0 balance:12900.0
+2017-12-24 01:52:11,167 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:1000.0 interest:50.0 balance:11850.0
+2017-12-24 01:53:54,377 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:1000.0 interest:50.0 balance:10800.0
+2017-12-24 01:54:00,773 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:800.0 interest:40.0 balance:9960.0
+2017-12-24 01:55:25,600 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:9855.0
+2017-12-24 01:55:58,625 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:9750.0
+2017-12-24 01:56:15,251 - transaction - INFO - User 1000 views the account info
+2017-12-24 02:06:21,158 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:9645.0
+2017-12-24 02:10:56,401 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:9540.0
+2017-12-24 02:11:29,921 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:9435.0
+2017-12-24 02:15:29,974 - transaction - INFO - account£º1000 tran_type:pay_back action:plus amount:1000.0 interest:0.0 balance:10435.0
+2017-12-24 02:16:07,899 - transaction - INFO - User 1000 views the account info
+2017-12-24 02:16:22,132 - transaction - INFO - account£º1000 tran_type:pay_back action:plus amount:100.0 interest:0.0 balance:10535.0
+2017-12-24 02:20:11,655 - transaction - INFO - account£º1000 tran_type:pay_back action:plus amount:1000.0 interest:0.0 balance:11535.0
+2017-12-24 02:20:35,623 - transaction - INFO - account£º1000 tran_type:pay_back action:plus amount:1000.0 interest:0.0 balance:12535.0
+2017-12-24 02:20:42,514 - transaction - INFO - User 1000 views the account info
+2017-12-24 03:25:18,798 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:1001.0 interest:0.0 balance:11534.0
+2017-12-24 03:38:40,257 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:1001.0 interest:0.0 balance:10533.0
+2017-12-24 03:40:53,412 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:1001.0 interest:0.0 balance:9532.0
+2017-12-24 03:42:06,485 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:1001.0 interest:0.0 balance:8531.0
+2017-12-24 03:45:27,138 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:1000.0 interest:0.0 balance:7531.0
+2017-12-24 03:48:43,776 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:1000.0 interest:0.0 balance:6531.0
+2017-12-24 03:59:47,235 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:1000.0 interest:0.0 balance:5531.0
+2017-12-24 03:59:53,207 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:1000.0 interest:0.0 balance:4531.0
+2017-12-24 04:00:50,193 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:1000.0 interest:0.0 balance:3531.0
+2017-12-24 04:00:59,844 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:100.0 interest:0.0 balance:3431.0
+2017-12-24 04:01:44,193 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:1000.0 interest:50.0 balance:2381.0
+2017-12-24 04:03:06,074 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:200.0 interest:10.0 balance:2171.0
+2017-12-24 04:03:19,650 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:10.0 interest:0.5 balance:2160.5
+2017-12-24 04:03:30,266 - transaction - INFO - account£º1000 tran_type:pay_back action:plus amount:1000.0 interest:0.0 balance:3160.5
+2017-12-24 04:03:37,874 - transaction - INFO - User 1000 views the account info
+2017-12-28 22:40:35,252 - transaction - INFO - account 1000 views the account info
+2017-12-28 22:40:44,455 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:3055.5
+2017-12-28 22:41:01,167 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:2950.5
+2017-12-28 22:41:03,943 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:200.0 interest:10.0 balance:2740.5
+2017-12-28 22:41:06,879 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:55.0 interest:2.75 balance:2682.75
+2017-12-28 22:44:06,164 - transaction - INFO - account 1000 views the account info
+2017-12-28 23:13:14,772 - transaction - INFO - account 1000 views the account info
+2017-12-28 23:13:17,838 - transaction - INFO - account£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:2577.75
+2017-12-28 23:13:29,855 - transaction - INFO - account£º1000 tran_type:pay_back action:plus amount:100.0 interest:0.0 balance:2677.75
+2017-12-28 23:13:38,166 - transaction - INFO - account£º1000 tran_type:pay_back action:plus amount:100.0 interest:0.0 balance:2777.75
+2017-12-28 23:14:24,960 - transaction - INFO - account£º1000 tran_type:transfer action:transfer amount:100.0 interest:0.0 balance:2677.75
+2017-12-29 20:07:47,945 - transaction - INFO - accounts 1000 views the accounts info
+2017-12-29 20:08:13,353 - transaction - INFO - accounts£º1000 tran_type:with_draw action:minus amount:200.0 interest:10.0 balance:2467.75
+2017-12-29 20:09:31,589 - transaction - INFO - accounts£º1000 tran_type:pay_back action:plus amount:200.0 interest:0.0 balance:2667.75
+2017-12-29 20:09:41,650 - transaction - INFO - accounts£º1000 tran_type:pay_back action:plus amount:200.0 interest:0.0 balance:2867.75
+2017-12-29 20:10:31,940 - transaction - INFO - accounts£º1000 tran_type:transfer action:transfer amount:6.0 interest:0.0 balance:2861.75
+2017-12-29 20:15:46,800 - transaction - INFO - accounts£º1000 tran_type:transfer action:transfer amount:1000.0 interest:0.0 balance:1861.75
+2017-12-29 20:22:39,967 - transaction - INFO - accounts 111 views the accounts info
+2017-12-29 20:30:56,494 - transaction - INFO - accounts 1000 views the accounts info
+2017-12-29 20:31:04,944 - transaction - INFO - accounts£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:1756.75
+2017-12-29 20:31:11,904 - transaction - INFO - accounts£º1000 tran_type:pay_back action:plus amount:100.0 interest:0.0 balance:1856.75
+2017-12-29 20:31:19,328 - transaction - INFO - accounts£º1000 tran_type:transfer action:transfer amount:10.0 interest:0.0 balance:1846.75
+2017-12-31 02:16:42,065 - transaction - INFO - accounts£º1000 tran_type:shopping action:minus amount:10  balance:758.75
+2017-12-31 02:17:19,873 - transaction - INFO - accounts£º1000 tran_type:shopping action:minus amount:20  balance:738.75
+2017-12-31 02:17:22,049 - transaction - INFO - accounts£º1000 tran_type:shopping action:minus amount:20  balance:718.75
+2017-12-31 02:17:23,585 - transaction - INFO - accounts£º1000 tran_type:shopping action:minus amount:20  balance:698.75
+2017-12-31 02:34:09,401 - transaction - INFO - accounts£º1000 tran_type:shopping action:minus amount:20  balance:678.75
+2017-12-31 02:34:10,816 - transaction - INFO - accounts£º1000 tran_type:shopping action:minus amount:20  balance:658.75
+2017-12-31 02:34:11,912 - transaction - INFO - accounts£º1000 tran_type:shopping action:minus amount:10  balance:648.75
+2017-12-31 02:35:33,265 - transaction - INFO - accounts£º1000 tran_type:shopping action:minus amount:10  balance:638.75
+2017-12-31 02:36:16,663 - transaction - INFO - accounts 1000 views the accounts info
+2017-12-31 02:36:28,808 - transaction - INFO - accounts£º1000 tran_type:pay_back action:plus amount:10000.0 interest:0.0 balance:10638.75
+2017-12-31 02:36:35,695 - transaction - INFO - accounts 1000 views the accounts info
+2017-12-31 02:38:54,566 - transaction - INFO - accounts 1 views the accounts info
+2017-12-31 02:52:02,407 - transaction - INFO - accounts£º1000 tran_type:shopping action:minus amount:1999  balance:8639.75
+2017-12-31 02:53:26,832 - transaction - INFO - accounts£º1001 tran_type:shopping action:minus amount:1999  balance:23221.0
+2017-12-31 02:53:58,276 - transaction - INFO - accounts 1000 views the accounts info
+2017-12-31 02:54:03,962 - transaction - INFO - accounts£º1000 tran_type:with_draw action:minus amount:100.0 interest:5.0 balance:8534.75
+2017-12-31 02:55:00,170 - transaction - INFO - accounts£º1000 tran_type:pay_back action:plus amount:10000.0 interest:0.0 balance:18534.75
+2017-12-31 02:56:11,374 - transaction - INFO - accounts£º1000 tran_type:transfer action:transfer amount:8000.0 interest:0.0 balance:10534.75
+2017-12-31 03:17:55,006 - transaction - INFO - accounts 1 views the accounts info
+2017-12-31 21:45:05,490 - transaction - INFO - accounts 1100 views the accounts info
+2017-12-31 22:23:44,302 - transaction - INFO - accounts 1100 views the accounts info
+2017-12-31 22:23:52,873 - transaction - INFO - accounts£º1100 tran_type:with_draw action:minus amount:1000.0 interest:50.0 balance:13950.0

@@ -1,0 +1,12 @@
+import sys
+
+#Python编码
+sys.getdefaultencoding():获取python自己的内置系统,并非操作系统,即python编码。
+
+sys.setdefaultencoding():设置默认编码,执行dir(sys)时不会看到这个方法,在解释器中执行不通过,可以先执行reload(sys),在执行setdefaultencoding(‘utf8’),此时将系统默认编码设置为utf8。
+
+sys.getfilesystemencoding():获取文件系统使用编码方式,Windows下返回’mbcs’,mac下返回’utf-8’.
+
+这部分内容可参见“Python判断当前操作系统类型以及os, sys, platform模块简介”
+
+其实我认为这部分对后面的故障定位没作用。

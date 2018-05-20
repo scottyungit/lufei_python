@@ -1,0 +1,4 @@
+物理层：网卡
+数据链路层： 以太网协议，基于MAC地址广播的协议！ 封装原始数据，数据包有：head（18字节：sorce,dest,description） 和 data
+
+

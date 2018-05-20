@@ -1,0 +1,35 @@
+WARNING:root:warning1
+WARNING:root:hello,woranning
+CRITICAL:root:server is down
+WARNING:root:warning1
+WARNING:root:hello,woranning
+CRITICAL:root:server is down
+2017-12-12 22:06:00,724 warning1
+2017-12-12 22:06:00,728 hello,woranning
+2017-12-12 22:06:00,728 server is down
+2017-12-12 10:07:12/12/17 warning1
+2017-12-12 10:07:12/12/17 hello,woranning
+2017-12-12 10:07:12/12/17 server is down
+2017-12-12 22:08:12/12/17 warning1
+2017-12-12 22:08:12/12/17 hello,woranning
+2017-12-12 22:08:12/12/17 server is down
+2017-12-12 22:08:12/12/17 PM warning1
+2017-12-12 22:08:12/12/17 PM hello,woranning
+2017-12-12 22:08:12/12/17 PM server is down
+2017-12-12 22:09:12 PM warning1
+2017-12-12 22:09:12 PM hello,worann2017-12-12 22:13:14 PM C:/lufei_python/??????/??????????/logging???.py warning1
+2017-12-12 22:13:14 PM C:/lufei_python/??????/??????????/logging???.py hello,woranning
+2017-12-12 22:13:14 PM C:/lufei_python/??????/??????????/logging???.py server is down
+2017-12-12 22:19:39 PM logging???.py:<module>:14 warning1
+2017-12-12 22:19:39 PM logging???.py:<module>:15 hello,woranning
+2017-12-12 22:19:39 PM logging???.py:<module>:16 server is down
+2017-12-12 22:20:11 PM logging???.py:sayhi:11 print line number
+2017-12-12 22:20:11 PM logging???.py:<module>:14 warning1
+2017-12-12 22:20:11 PM logging???.py:<module>:15 hello,woranning
+2017-12-12 22:20:11 PM logging???.py:<module>:16 server is down
+2017-12-12 22:20:32 PM logging???.py:sayhi:11 print line number
+2017-12-12 22:20:32 PM logging???.py:<module>:14 hello,woranning
+2017-12-12 22:20:32 PM logging???.py:<module>:15 server is down
+2017-12-12 22:26:52 PM logging???.py:sayhi:11:19484 print line number
+2017-12-12 22:26:52 PM logging???.py:<module>:14:19484 hello,woranning
+2017-12-12 22:26:52 PM logging???.py:<module>:15:19484 server is down

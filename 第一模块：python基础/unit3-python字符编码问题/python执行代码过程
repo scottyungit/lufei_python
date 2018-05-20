@@ -1,0 +1,40 @@
+py3 文件编码默认： utf-8
+    字符串编码 uncide
+ py2  文件编码默认：ascii
+      字符串编码：跟随文件编码走
+      由于默认ascii，通过修改文件头可以改编码
+
+py2 的二进制串 叫做字节
+
+
+# python如何执行程序文件：
+# step 1:
+# python解释器在读程序文件时，按照文件头定义的编码加载到内存里边，
+# 注意：这里如果文件头没有定义编码的话，
+#  python3默认文件头编码 utf-8
+#  py2                ascii
+
+# step2:
+# 加载到内存以后，由于内存里都是以unicode编码显示的，而且unicode可以读懂其他编码的文件（因为unicode编码表里边有针对其他字符的对应关系），
+# 这样在内存里边，经过转换，就会以unicode存储显示了！
+
+# step3:
+# 把代码按照Python语法分析，分析执行就会变成真正的代码.代码中的字符串即是unicode字符串
+
+并不是所有编程语言在内存里的默认编码是unicode。python2在内存里字符串的编码是ascii。想写中文，必须在文件头加载coding：gbk
+或者utf-8。 这样，python2解释器已文件头的编码去解释你的代码，加载到内存后，他并不会转为unicode，还是已你的文件头的编码来解释。
+你的变量字符串还是（例如：utf-8）。这样你的utf-8保存的文件，就不会在windows上显示，会乱码。
+
+假设py2文件头只是为utf-8，在windows上执行代码肯定会乱码。想要解决此问题,方法:
+1.修改代码文件，将utf-8字符串通过decode和encode方法，改成unicode或者gbk编码，这样就可以正好显示
+2.修改windows的编码为utf-8(显然此方法不太现实)
+
+经过python试验，在py2中
+unicode字符串 type函数结果为 unicode
+其他编码字符串  type为 str
+
+在 py3中 type为 type
+
+延伸：py2中 还有bytes 其实bytes就是str
+s = b'雷杰'   #这样就是bytes了
+bytes主要可以用来表示图片和视频文件了

@@ -1,0 +1,1 @@
+list通过索引删除多个元素，无法用pop ，remove等，应该使用del list[1:4]   del结合切片达到目的

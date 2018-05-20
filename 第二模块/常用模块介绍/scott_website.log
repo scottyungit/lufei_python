@@ -1,0 +1,4 @@
+
+2017-12-13 11:44:53,793 - scott_website - WARNING - test warnning log 
+2017-12-13 11:44:53,794 - scott_website - INFO - test info log
+2017-12-13 11:46:41,480 - scott_website - DEBUG - test debug log db backup

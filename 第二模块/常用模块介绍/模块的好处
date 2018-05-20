@@ -1,0 +1,39 @@
+模块：
+1.提高维护性
+2.可重用
+3.避免函数名和变量名冲突
+模块有三种：
+1.内置模块（标准库）  查看用 help('modules')
+2.第三方开源模块   pip install
+3.自定义
+
+模块调用：
+import module
+from module.core.core2 import  handlers as  handles_alias
+
+模块被调用，就会执行一遍。当修改了模块以后，需要在重新加载一遍，即重新import
+
+import如何找到模块的文件呢？
+sys.path会有一些path,会从这些目录去找模块，找不到就报错
+
+python pypi站点有开源的模块
+下载下来，可以安装使用
+几种安装方法：
+1.setup.py方法,有两步
+$python setup.py build
+$pyhton setup.py install
+2.pip install 安装
+（这里有个豆瓣的国内镜像站点，比官方的pip源快）
+$pip install -i https://doubian.com  --trusted-host doubian.com
+
+
+包（package）
+模块放在包文件夹下边
+import 模块时要注意路径的问题，
+包文件夹可以被导入,在python3中可以直接导入包，但是pyhton2不可以。除非加入__init__.py文件
+print(dir())  #打印目录下的文件(文件夹)
+os.path.abspath(__file__)
+在那个目录下执行，所有的文件都会以此为相对路径。
+
+相对导入：1.文件夹必须有__init__.py文件  2.不能作为顶层模块来执行该文件的py文件
+

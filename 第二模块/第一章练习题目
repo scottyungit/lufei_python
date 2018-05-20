@@ -1,0 +1,25 @@
+python中如何进行编码转换
+为什么有中文乱码
+
+1.python2和3的默认编码
+python3 字符编码是utf-8, 字符串编码是unicode
+python2 都是ascii  ，除非手动在文件头指定了encoding类型，
+
+2.出现中文乱码的原因
+就是存的编码类型和打开时用的编码不一样，就会操作匹配错误。
+例如utf-8写的文件，在gbk的windows终端打开就会乱码
+或gbk写的文件，在linux终端打开。
+
+3.如何进行转换：
+utf-8
+s1.decode("utf-8")
+s2.encode("gbk")
+
+4.pyhton2的bytes  VS python3的bytes 区别
+python3中没有bytes，都是str类型，但是str都是unicode
+python2中str就是bytes，只是不同的展现形式，print()就会把bytes转变为str。bytes存在的意义就是为了表示图片，视频等。
+python2中有unicode类型,
+
+
+C:\Python27\;C:\Python27\Scripts;C:\Program Files\Python36\Scripts\;C:\Program Files\Python36\;%SystemRoot%\system32;
+%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\

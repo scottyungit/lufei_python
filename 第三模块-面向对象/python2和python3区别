@@ -1,0 +1,11 @@
+Class的多继承
+#python2中的多继承
+#经典类：没有继承object类  深度优先  没有mro方法:Class.mro()
+#新式类：继承object类， 广度优先原则
+
+#python3中的多继承，
+#新式类：不管写不写，都继承object类（在python2中是不继承object的）， 广度优先原则  有mro方法:Class.mro()
+#没有经典类
+
+mro方法可以查看出当前子类继承的所有父类 ，并列出他们的继承顺序
+

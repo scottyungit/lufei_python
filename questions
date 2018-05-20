@@ -1,0 +1,2 @@
+Q1：logging 的format参数 有好多变量，怎么去找到这些变量的用法
+A1: 百度去python官网查找logging即可。

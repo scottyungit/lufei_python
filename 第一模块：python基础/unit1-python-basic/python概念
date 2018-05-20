@@ -1,0 +1,12 @@
+python 是一门解释型语言，那么解释器/虚拟机有一下几种：
+Cpython 默认的
+Ipython
+pypy
+Jpython
+
+name="scott"
+age="25"
+print(""" info is
+name:%s
+age:%s
+""") %(name,age)

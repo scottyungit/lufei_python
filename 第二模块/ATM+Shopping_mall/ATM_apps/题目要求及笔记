@@ -1,0 +1,37 @@
+1、额度 15000或自定义
+2、实现购物商城，买东西加入 购物车，调用信用卡接口结账
+3、可以提现，手续费5%
+4、支持多账户登录
+5、支持账户间转账
+6、记录每月日常消费流水
+7、提供还款接口
+8、ATM记录操作日志
+9、提供管理接口，包括添加账户、用户额度，冻结账户等。。。
+10、用户认证用装饰器
+
+示例代码 https://github.com/triaquae/py3_training/tree/master/atm
+
+简易流程图：https://www.processon.com/view/link/589eb841e4b0999184934329
+
+
+
+1.input()可以加颜色给里边的str
+2.LOG_PATH1=os.path.join(BASE_DIR,"logs")   #拼接
+在拼接目录的时候，想起一个问题，在windows路径之间使用\来分割路径，linux下使用/分割路径。所以在写的时候怎么确保在两个系统
+上都可以兼容运行呢？   使用 os.path.join(BASE_DIR,"db","accounts")这样写号。如果你直接写 “db/accounts”。那/在windows下怎么办呢？
+3.
+logger用法中 logging.INFO是日志级别设定的值  logging.info("info messages") 是日志info级别会输出的内容。
+4.当文件是一个json文件时，当程序中调用了此文件，可以把文件的内容放在一个字典的key里边，例如{'data':data}后边修改了内容想要在改回来时，
+在使用json导入回来。
+f=open("file.json",'r')
+data=json.load(f)  #加入原来文件时字典格式的json,导入后data是一个字典了
+修改了data的内容，此时有了新的data的字典对象
+在将data修改回去是，使用
+f=open("file.json",'w')
+json.dump(data,f) #这样就将源文件覆盖重新写了一遍
+
+5. print("%15s:%s" %(k,v))  %15s, 其中15表示从行首到行尾走15个字节，当需要保持每行排列整齐时，可能有点用
+print("END".center(50,'-'))  center就把end放在了50个字符的位置，前后用-补齐
+6.
+
+

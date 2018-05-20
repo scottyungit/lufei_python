@@ -1,0 +1,10 @@
+xx=login('qq')  #outer memory address
+henan=xx(henan)  #inter memory address
+henan('3p')     #inner('3p') -- old henan('3p')
+
+
+dic = {"username": "scott",
+  "password": "123",
+  "status": 0,
+  "shopping_cart":[("电脑", 1999)]
+}
